@@ -1,0 +1,12 @@
+Zum Starten:
+springboot-backend in Eclipse als Projekt importieren
+Eclipse mit Springboot und als Springboot-Projekt starten
+  Datenbank erstellen (Ich habe XAMPP benutzt und dabei MYSQL), Name muss mit der application.properties übereinstimmen
+  Bsp: Name der Datenbank: Apfel
+       application.properties (erste Zeile):
+       spring.datasource.url=jdbc:mysql://localhost:3306/Apfel
+       
+react-frontend in VCS oder ähnliches importieren
+Node.js installieren
+Terminal öffnen und "npm start" eingeben
+ 
