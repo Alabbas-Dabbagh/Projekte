@@ -8,5 +8,9 @@ Eclipse mit Springboot und als Springboot-Projekt starten
        
 react-frontend in VCS oder ähnliches importieren
 Node.js installieren
-Terminal öffnen und "npm start" eingeben
+Terminal öffnen:
+npm install bootstrap --save
+npm add axios
+npm start 
+
  
